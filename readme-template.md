@@ -4,11 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome chatGPT [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/Git-Commit-Show/awesome-chatGPT/actions/workflows/lint.yaml/badge.svg)](https://github.com/Git-Commit-Show/awesome-chatGPT/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A collections of tools built using chatGPT
 
 <!-- image -->
 
@@ -18,9 +18,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+Large language model to assist with a variety of tasks by generating human-like text based on the input provided
 
 </div>
 
@@ -29,18 +27,28 @@ example.
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Unofficial APIs](#unofficial-api)
+- [Bots and tools](bots-and-tools)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Unofficial APIs
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [chatgpt-api node](https://github.com/transitive-bullshit/chatgpt-api) - A node.js client for unofficial chatGPT APIs
+- [ChatGPT python](https://github.com/acheong08/ChatGPT) - A Python library for unofficial chatGPT APIs
 
-## Section 1
+## Bots and tools
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Discord-chatGPT-Bot](https://github.com/onury5506/Discord-ChatGPT-Bot) - Discord bot for chatGPT
+- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode extention for chatGPT with refactoring and code explanation prompts
+- [Wechat bot](https://github.com/fuergaosi233/wechat-chatgpt) - A wechat bot for chatGPT
+- [Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) - A telegram bot for chatGPT
+
+
+## Prompts
+
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 <!-- END CONTENT -->
 
@@ -56,4 +64,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/Git-Commit-Show/awesome-chatGPT/graphs/contributors)!
