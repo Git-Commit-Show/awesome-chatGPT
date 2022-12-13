@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# 😎 Awesome ChatGPT
+# 😎 Awesome chatGPT
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/Git-Commit-Show/awesome-chatGPT/actions/workflows/lint.yaml/badge.svg)](https://github.com/Git-Commit-Show/awesome-chatGPT/actions/workflows/lint.yaml)
 
@@ -28,7 +28,7 @@ Large language model to assist with a variety of tasks by generating human-like 
 
 ## Contents
 
-- [😎 Awesome ChatGPT](#-awesome-chatgpt)
+- [😎 Awesome chatGPT](#-awesome-chatgpt)
   - [Contents](#contents)
   - [Unofficial APIs](#unofficial-apis)
   - [Bots and tools](#bots-and-tools)
@@ -43,24 +43,25 @@ Large language model to assist with a variety of tasks by generating human-like 
 
 ## Unofficial APIs
 
--   [Chatgpt-api node](https://github.com/transitive-bullshit/chatgpt-api) - A node.js client for unofficial chatGPT APIs
--   [ChatGPT python](https://github.com/acheong08/ChatGPT) - A Python library for unofficial chatGPT APIs
+- [Chatgpt-api node](https://github.com/transitive-bullshit/chatgpt-api) - A node.js client for unofficial chatGPT APIs
+- [ChatGPT python](https://github.com/acheong08/ChatGPT) - A Python library for unofficial chatGPT APIs
 
 ## Bots and tools
 
--   [Discord-chatGPT-Bot](https://github.com/onury5506/Discord-ChatGPT-Bot) - Discord bot for chatGPT.
--   [Chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode extension for chatGPT with refactoring and code explanation prompts.
--   [Wechat bot _1_](https://github.com/fuergaosi233/wechat-chatgpt) - A wechat bot for chatGPT.
--   [Wechat bot _2_](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - Another wechat bot for chatGPT.
--   [Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) - A telegram bot for chatGPT.
--   [ChatGPT for Google _Extension_](https://github.com/wong2/chat-gpt-google-extension) - Chat GPT Google Chrome Extension.
--   [ChatGPT-Google Search _Extension_](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search.
--   [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) -A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link. -[ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
--   [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - A ChatGPT-based GitHub APP.
+- [Discord-chatGPT-Bot](https://github.com/onury5506/Discord-ChatGPT-Bot) - Discord bot for chatGPT.
+- [Chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode extension for chatGPT with refactoring and code explanation prompts.
+- [Wechat bot _1_](https://github.com/fuergaosi233/wechat-chatgpt) - A wechat bot for chatGPT.
+- [Wechat bot _2_](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - Another wechat bot for chatGPT.
+- [Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) - A telegram bot for chatGPT.
+- [ChatGPT for Google _Extension_](https://github.com/wong2/chat-gpt-google-extension) - Chat GPT Google Chrome Extension.
+- [ChatGPT-Google Search _Extension_](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search.
+- [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) -A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link. 
+- [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
+- [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - A ChatGPT-based GitHub APP.
 
 ## Prompts
 
--   [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
+- [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
 
 <!-- END CONTENT -->
 
@@ -68,10 +69,10 @@ Large language model to assist with a variety of tasks by generating human-like 
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
--   [Open AI's official twitter.](https://twitter.com/OpenAI)
--   [Andrej Karpathy Ex-Director of AI at OpenAI.](https://twitter.com/karpathy)
--   [Greg Brockman Co-Founder of Open AI.](https://twitter.com/gdb)
--   Who else should we be following 🤔?
+- [Open AI's official twitter.](https://twitter.com/OpenAI)
+- [Andrej Karpathy Ex-Director of AI at OpenAI.](https://twitter.com/karpathy)
+- [Greg Brockman Co-Founder of Open AI.](https://twitter.com/gdb)
+- Who else should we be following 🤔?
 
 ## Contributing
 
