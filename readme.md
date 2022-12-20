@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# 😎 Awesome ChatGPT
+# 😎 Awesome chatGPT
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/Git-Commit-Show/awesome-chatGPT/actions/workflows/lint.yaml/badge.svg)](https://github.com/Git-Commit-Show/awesome-chatGPT/actions/workflows/lint.yaml)
 
@@ -28,14 +28,14 @@ Large language model to assist with a variety of tasks by generating human-like 
 
 ## Contents
 
--   [😎 Awesome ChatGPT](#-awesome-chatgpt)
-    -   [Contents](#contents)
-    -   [Unofficial APIs](#unofficial-apis)
-    -   [Bots and tools](#bots-and-tools)
-    -   [Prompts](#prompts)
-    -   [Follow](#follow)
-    -   [Contributing](#contributing)
-        -   [Contributors](#contributors)
+- [😎 Awesome chatGPT](#-awesome-chatgpt)
+  - [Contents](#contents)
+  - [Unofficial APIs](#unofficial-apis)
+  - [Bots and tools](#bots-and-tools)
+  - [Prompts](#prompts)
+  - [Follow](#follow)
+  - [Contributing](#contributing)
+    - [Contributors](#contributors)
 
 <br/>
 
@@ -55,7 +55,8 @@ Large language model to assist with a variety of tasks by generating human-like 
 -   [Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) - A telegram bot for chatGPT.
 -   [ChatGPT for Google _Extension_](https://github.com/wong2/chat-gpt-google-extension) - Chat GPT Google Chrome Extension.
 -   [ChatGPT-Google Search _Extension_](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search.
--   [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) -A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link. -[ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
+-   [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) -A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link.
+-   [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
 -   [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - A ChatGPT-based GitHub APP.
 
 ## Prompts
