@@ -28,14 +28,12 @@ A Large language model to assist with a variety of tasks by generating human-lik
 
 ## Contents
 
-- [😎 Awesome ChatGPT](#-awesome-chatgpt)
-  - [Contents](#contents)
-  - [Unofficial APIs](#unofficial-apis)
-  - [Bots and tools](#bots-and-tools)
-  - [Prompts](#prompts)
-  - [Follow](#follow)
-  - [Contributing](#contributing)
-    - [Contributors](#contributors)
+- [Unofficial APIs](#unofficial-apis)
+- [Bots and tools](#bots-and-tools)
+- [Prompts](#prompts)
+- [Follow](#follow)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 <br/>
 
